@@ -1,4 +1,7 @@
-on: push
+on: 
+  push:
+    branches:
+      - main
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
@@ -21,6 +24,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.christiansousadev.com.br
-        username: christiansousa@christiansousadev.com.br
-        password: ${{ Wcss150993@ }}
+        server: ${{ secrets.ftp.christiansousadev.com.br }}
+        username: ${{ secrets.christiansousa@christiansousadev.com.br }}
+        password: ${{ secrets.Wcss150993@ }}
+        server-dir: public_html/christian/
