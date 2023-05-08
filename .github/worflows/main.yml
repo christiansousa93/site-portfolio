@@ -1,8 +1,9 @@
+name: Deploy website to cPanel
 on: 
   push:
     branches:
       - main
-name: 🚀 Deploy website on push
+
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -24,7 +25,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ${{ secrets.ftp.christiansousadev.com.br }}
-        username: ${{ secrets.christiansousa@christiansousadev.com.br }}
-        password: ${{ secrets.Wcss150993@ }}
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
         server-dir: public_html/christian/
