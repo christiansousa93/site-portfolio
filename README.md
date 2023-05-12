@@ -3,10 +3,10 @@
 
 
 
-  <h1>Three.js 3D Portfolio</h1>
+  <h1>Portfólio Christian</h1>
   
   <p>
-    Three.js 3D Portfolio is a modern UI/UX and functional Developer Portfolio Web built with React & Three.js
+    Portfólio feito em React, usando Three.js.
   </p>
 
 <!-- Badges -->
