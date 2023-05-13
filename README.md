@@ -36,40 +36,41 @@
 ## :toolbox: Getting Started
 
 <!-- Installation -->
-### :gear: Installation
+### :gear: Instalação
 
-#### Step 1:
-Download or clone this repo by using the link below:
+#### Passo 1:
+Download ou clone:
 
 ```bash
  https://github.com/ladunjexa/Threejs_3D_Portfolio
 ```
 
-#### Step 2:
+#### Passo 2:
 
-3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
+Verificar se o node está instalado no computador.
+https://nodejs.org/en/download
 
 ```bash
   node -v
 ```
 
-#### Step 3:
+#### Passo 3:
 
-At the main folder execute the following command in console to get the required dependencies:
+Instalar as dependências:
 
 ```bash
   npm install
 ```
 
-#### Step 4:
+#### Passo 4:
 
-At the main folder execute the following command in console to creates a build directory with a production build of 3d portfolio:
+Comando para rodar o build para deploy:
 
 ```bash
   npm run build
 ```
 
-#### Step 5:
+#### Passo 5:
 
 At the main folder execute the following command in console to run the server:
 
@@ -80,7 +81,7 @@ At the main folder execute the following command in console to run the server:
 <!-- Run Locally -->
 ### :running: Run Locally
 
-#### Step 1:
+#### Passo 1:
 
 At the main folder execute the following command in console to get the required dependencies:
 
@@ -88,12 +89,14 @@ At the main folder execute the following command in console to get the required 
   npm install
 ```
 
-#### Step 2:
+#### Passo 2:
 
 At the main folder execute the following command in console to run the development server:
 
 ```bash
   npm run dev
+  ou
+  npm run server
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,12 +105,12 @@ At the main folder execute the following command in console to run the developme
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- Contact -->
-## :handshake: Contact
+<!-- Contatos -->
+## :handshake: Contatos
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
+Christian Sousa - https://www.christiansousadev.com.br
 
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
+Link do projeto: [https://github.com/christiansousa93/site-portfolio](https://github.com/christiansousa93/site-portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
