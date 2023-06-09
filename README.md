@@ -42,7 +42,7 @@
 Download ou clone:
 
 ```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio
+ https://github.com/christiansousadev/site-portfolio
 ```
 
 #### Passo 2:
