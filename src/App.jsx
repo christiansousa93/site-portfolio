@@ -26,7 +26,7 @@ const App = () => {
           <Navbar />
           <Hero />
           <div class="loader">
-            <a href='https://github.com/christiansousa93/pacman-css' target="_blank">
+            <a href='https://github.com/christiansousadev/pacman-css' target="_blank">
             <div class="circles"> 
             <span class="one"></span>
             <span class="two"></span>
