@@ -134,7 +134,7 @@ const experiences = [
     title: "Desenvolvedor Full Stack",
     company_name: "WChris Tecnologia",
     icon: wchris,
-    iconBg: "#64D0E9",
+    iconBg: "#FFFFFF",
     date: "Jan 2023 - Atualmente",
     points: [
       "Desenvolvedor Web.",
@@ -231,16 +231,19 @@ const experiences = [
 
 const certification = [
   {
+    certification: 
+      "Scrum Foundation - CertiProf.",
+    image: "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16721795717413812144587380546653.png?cb=1672179574965"
+  }, 
+  {
     certification:
-      "Certificação Scrum - CertiProf.",
-    image: "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16721795717413812144587380546653.png?cb=1672179574965",
-    source_code_link: "https://www.credly.com/badges/86556d5a-bc16-4b3b-93d0-41f0517a7cdc",
+      "Remote Worker - CertiProf.",
+    image: "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16828943262789277174846182806463.png?cb=1682894328881"
   },
   {
     certification:
-      "Certificação Trabalho Remoto - CertiProf.",
-    image: "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16828943262789277174846182806463.png?cb=1682894328881",
-    source_code_link: "https://www.credly.com/badges/e8fd5133-4ebb-45df-bcd4-f1d3d75392be",
+      "Fundamentals of Informatics - IBSEC",
+    image: "https://certs.ibsec.com.br/wp-content/uploads/tutor-certificates/GNE2b5spoY-234e3de39893b572.jpg"
   },
 ];
 

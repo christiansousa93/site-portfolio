@@ -8,9 +8,7 @@ const Certification1Card = ({
   index,
   certification,
   name,
-  designation,
-  company,
-  image,
+  image
 }) => (
   <motion.div
     variants={fadeIn("", "spring", index * 0.5, 0.75)}
